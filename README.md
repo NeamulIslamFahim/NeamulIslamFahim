@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NeamulIslamFahim
 - 👀 I’m interested in coding, musics.
-- 💞️ I’m looking to collaborate on web design and development and desktop application.
 - 📫 How to reach me through facebook and twitter
 - 
       Facebook: www.facebook.com/niamul.fahim
