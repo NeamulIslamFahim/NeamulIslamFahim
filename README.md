@@ -18,7 +18,7 @@ Occupation: I am a student.<br>
 
 <p align="justify">
 I am student of Computer Science and Engineering (CSE) in United International University. I like to do coding and problem solving.</br> 
-I have done projects on desktop application, web designing. I have done some projects on C, Java, Graphical User Interface (GUI).</br>Besides, I have also
+I have done some projects on C, Java, Graphical User Interface (GUI).</br>Besides, I have also
 done projects on web designing. And I am doing freelancing since 1 year. My future plan is on Machine Learning.
 </p>
 
