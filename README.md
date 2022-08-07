@@ -1,7 +1,7 @@
-<h1> 👋 Hello, I'm Neamul Islam Fahim</h1>
+<h1> 👋 Hello, </br>I'm Neamul Islam Fahim</h1>
 
-I am a student.<br>
-🏠 &nbsp; Living: Dhaka, Bangladesh
+Occupation: I am a student.<br>
+🏠&nbsp; Living: Dhaka, Bangladesh
 
 <!-- Contact me section starts here  -->
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./image/facebook.svg" />](https://www.facebook.com/niamul.fahim)
@@ -17,8 +17,9 @@ I am a student.<br>
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am student. I am passionate in coding, problem solving and project building. I am efficient in C,Java, HTML,CSS,JS.
-I am working as a web designer and desktop application developer.
+I am student of Computer Science and Engineering (CSE) in United International University. I like to do coding and problem solving.</br> 
+I have done projects on desktop application, web designing. I have done some projects on C, Java, Graphical User Interface (GUI).</br>Besides, I have also
+done projects on web designing. And I am doing freelancing since 1 year. My future plan is on Machine Learning.
 </p>
 
 <br />
